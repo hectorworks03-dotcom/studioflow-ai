@@ -1,0 +1,44 @@
+# StudioFlow AI
+
+> AI Product Photography Pipeline built with ComfyUI and FLUX.
+
+Transform a simple smartphone product photo into a professional commercial image using an automated AI workflow.
+
+---
+
+## 🚀 Overview
+
+StudioFlow AI is a proof-of-concept workflow designed to automate product photography for e-commerce, social media, and marketing.
+
+The workflow combines AI-powered image generation, prompt engineering, and image enhancement to dramatically reduce manual editing while maintaining high-quality results.
+
+---
+
+## ✨ Features
+
+- Automated product photography
+- AI-generated commercial backgrounds
+- Professional lighting
+- High-resolution output
+- Reusable ComfyUI workflow
+- Scalable production pipeline
+## 📸 Workflow
+
+```text
+Product Image
+      │
+      ▼
+Background Removal
+      │
+      ▼
+Prompt Enhancement
+      │
+      ▼
+FLUX Image Generation
+      │
+      ▼
+Image Upscaling
+      │
+      ▼
+Commercial Output
+```
