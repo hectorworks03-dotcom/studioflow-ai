@@ -71,9 +71,8 @@ Image Upscaling
       ▼
 Commercial Output
 
-![Workflow](assets/workflow.jpeg)
-
 ```
+![Workflow](assets/workflow.jpeg)
 ## 👤 Author
 
 **Héctor Hernández**
