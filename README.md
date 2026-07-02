@@ -72,6 +72,7 @@ Image Upscaling
 Commercial Output
 
 ```
+
 ![Workflow](assets/workflow.jpeg)
 ## 👤 Author
 
