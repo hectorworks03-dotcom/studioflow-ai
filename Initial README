@@ -12,6 +12,11 @@ StudioFlow AI is a proof-of-concept workflow designed to automate product photog
 
 The workflow combines AI-powered image generation, prompt engineering, and image enhancement to dramatically reduce manual editing while maintaining high-quality results.
 
+## 🎯 Project Goal
+
+Build a reusable AI workflow that transforms ordinary product photos into professional commercial assets using ComfyUI and FLUX.
+
+This project demonstrates AI workflow design, prompt engineering, and automation for marketing and e-commerce applications.
 ---
 
 ## ✨ Features
