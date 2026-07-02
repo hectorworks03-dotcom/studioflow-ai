@@ -18,7 +18,11 @@ Build a reusable AI workflow that transforms ordinary product photos into profes
 
 This project demonstrates AI workflow design, prompt engineering, and automation for marketing and e-commerce applications.
 ---
+## 💡 Why I Built This
 
+I built this project to explore how AI workflows can automate repetitive creative tasks while maintaining high-quality visual output.
+
+Instead of focusing only on image generation, the goal was to design a reusable production pipeline that solves a real business problem.
 ## ✨ Features
 
 - Automated product photography
@@ -27,6 +31,18 @@ This project demonstrates AI workflow design, prompt engineering, and automation
 - High-resolution output
 - Reusable ComfyUI workflow
 - Scalable production pipeline
+---
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|----------|------------|
+| Workflow | ComfyUI |
+| Image Generation | FLUX.1 Dev |
+| Prompt Engineering | Florence-2 |
+| Upscaling | ESRGAN |
+| Image Editing | Photoshop |
+| Documentation | Markdown |
+
 ## 📸 Workflow
 
 ```text
